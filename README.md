@@ -1,5 +1,5 @@
-Example of Binary Tree algorithm for CSharp
+Example Data Structures for CSharp
 
 Bibliography;
 
-https://www.geeksforgeeks.org/binary-tree-in-c/
+Binary-Tree https://www.geeksforgeeks.org/binary-tree-in-c/
